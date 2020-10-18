@@ -12,7 +12,7 @@ dfs function will find the possible path from start Node to goal node7
 """
 
 #to test algorithm uncomment one of the movegen,
-#strtNode, GoalNode and commentout user-input--
+#startNode, GoalNode and commentout user-input--
 #moveGen = {'S':['A','B','C'],'A':['S','B','D'],'B':['S','A','D'],'C':['S','G'],'D':['A','B','E'],'E':['D','G'],'G':['C','E']}
 #moveGen = {'S': ['A','B','D'],'A':['C','B','S'],'B':['S','A','C'],'C':['B','A'],'D':['S','G'],'G':['D']}
 #startNode = 'S'
