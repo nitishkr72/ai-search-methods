@@ -8,7 +8,8 @@ Created on Sun Oct 18 19:38:47 2020
 moveGen(Node N) & goalTest(Node N) is a user given function
 dfs function will find the possible path from start Node to goal node7
 
-(this may not be the shortest possible path) ...
+Time Complexity- Exponential
+Space Complexity- Linear ...
 """
 
 #to test algorithm uncomment one of the movegen,
